@@ -1,5 +1,0 @@
-com\webservice\Pojo\InputXML.class
-com\webservice\rest\SalesforceHandler.class
-com\webservice\Pojo\OutputXml.class
-com\webservice\rest\Salesforce_Utility.class
-com\webservice\rest\XMLWebservice.class
