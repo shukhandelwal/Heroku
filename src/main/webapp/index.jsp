@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h2>Account Detail Page</h2>
+	<h2>Account Detail Page from Developer Org</h2>
 	
 	<form action="SalesforceHandler" method="get">
 	
